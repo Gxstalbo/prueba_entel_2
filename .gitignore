@@ -1,0 +1,7 @@
+data_dict.csv
+dataset_prueba.csv
+prueba_tecnica.pdf
+*.ipynb
+*.csv
+*.pdf
+.Rproj.user
